@@ -1,5 +1,7 @@
 #include <iostream>
 
+bool PlayGame(int LevelDifficulty);
+
 int main()
 {
     //Declaring Variables
@@ -40,4 +42,9 @@ int main()
     }
 
     return 0;
+}
+
+bool PlayGame(int LevelDifficulty)
+{
+
 }
